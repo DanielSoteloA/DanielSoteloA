@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on I currently work at Clubster.cl, with SQL Azure, Looker Studio and Google Analytics
+- 🌱 I'm currently learning Ruby on Rails
+
 <!--
 **DanielSoteloA/DanielSoteloA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

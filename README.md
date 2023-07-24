@@ -4,6 +4,7 @@
 - :+1: I have previously worked with PHP and MySQL databases
 - 🌱 I'm currently learning Ruby on Rails
 - :writing_hand: Linkedin https://www.linkedin.com/in/daniel-sotelo-alarcon-264167248/
+- :writing_hand: [Stackoverflow The Key]([https://stackoverflow.blog/2021/03/31/the-key-copy-paste/](https://www.linkedin.com/in/daniel-sotelo-alarcon-264167248/)){:target="_blank" rel="noopener"}
 
 <!--
 **DanielSoteloA/DanielSoteloA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

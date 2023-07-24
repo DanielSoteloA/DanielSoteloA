@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with SQL Azure, Looker Studio and Google Analytics
+- :+1: I have previously worked with PHP and MySQL databases
 - 🌱 I'm currently learning Ruby on Rails
 
 <!--

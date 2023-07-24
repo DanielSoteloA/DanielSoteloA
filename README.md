@@ -3,6 +3,7 @@
 - 🔭 I’m currently working with SQL Azure, Looker Studio and Google Analytics
 - :+1: I have previously worked with PHP and MySQL databases
 - 🌱 I'm currently learning Ruby on Rails
+- :writing_hand: Linkedin https://www.linkedin.com/in/daniel-sotelo-alarcon-264167248/
 
 <!--
 **DanielSoteloA/DanielSoteloA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
